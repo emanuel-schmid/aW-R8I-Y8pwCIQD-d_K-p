@@ -1,0 +1,20 @@
+{
+  "creators": [
+    {
+      "name": "Ringo Starr",
+      "affiliation": "Bluebird Café"
+    },
+    {
+      "name": "Paul McCartney",
+      "affiliation": "NASA"
+    },
+    {
+      "name": "John Lennon",
+      "affiliation": "MOMA New York"
+    },
+    {
+      "name": "George Harrison",
+      "affiliation": "Maharishi Mahesh Yogi Ashram"
+    }
+  ]
+}
