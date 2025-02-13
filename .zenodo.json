@@ -2,7 +2,7 @@
   "creators": [
     {
       "name": "Ringo Starr",
-      "affiliation": "Bluebird Café"
+      "affiliation": "Bluebird Caf\u00e9"
     },
     {
       "name": "Paul McCartney",
@@ -10,11 +10,11 @@
     },
     {
       "name": "John Lennon",
-      "affiliation": "MOMA New York"
+      "affiliation": "Kunsthaus "ETH Z\u00fcrich""
     },
     {
       "name": "George Harrison",
-      "affiliation": "Maharishi Mahesh Yogi Ashram"
+      "affiliation": "Maharishi Mahesh Yogi Ashr\u00e5kam"
     }
   ]
 }
